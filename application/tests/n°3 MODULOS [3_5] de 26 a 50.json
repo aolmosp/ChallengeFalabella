@@ -1,0 +1,36 @@
+{
+"data" : {
+"max" : 50,
+"start" : 26,
+"increment" : 1,
+"mods" : [3,5],
+"replace" : ["Falabella", "IT", "Integraciones"]
+},
+"result" : [
+			"26",
+			"Falabella",
+			"28",
+			"29",
+			"Integraciones",
+			"31",
+			"32",
+			"Falabella",
+			"34",
+			"IT",
+			"Falabella",
+			"37",
+			"38",
+			"Falabella",
+			"IT",
+			"41",
+			"Falabella",
+			"43",
+			"44",
+			"Integraciones",
+			"46",
+			"47",
+			"Falabella",
+			"49",
+			"IT"	
+		]
+}
